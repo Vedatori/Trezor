@@ -121,21 +121,21 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Jeden pin vložte <b>přesně tam, kde je na fotce</b>, do 3. kódového kola ze strany, kde je nápis.
     ![alt](SupportFiles/position_0.jpg)
 1. Spočítejte pozici druhého pinu. Kombinaci berte jako x, y, z. Pak mezera mezi prvním a druhým pinem je z - y.
-    Např. pokud máte kombinaci 15, 25, 35, pak mezera mezi piny je 35 - 25, tedy 10. Pin bude tedy na pozici 11, atd. Druhý pin pak vložte podle nápovědy obrázku. <b>Vkládejte pouze jeden pin</b>, dva jsou na obrázku pouze kvůli názornosti. Mezera se počítá jako dvě díry!
+    Např. pokud máte kombinaci 15, 25, 35, pak mezera mezi piny je 35 - 25, tedy 10. Pin bude tedy na pozici 11, atd. Druhý pin pak vložte, do druhého kola ze strany bez nápisu, podle nápovědy obrázku. <b>Vkládejte pouze jeden pin</b>, dva jsou na obrázku pouze kvůli názornosti. Mezera se počítá jako dvě díry!
     ![alt](SupportFiles/wheel_2_manual.jpg)
-1. Pokud se teď druhý pin nachází na okraji mezery, nebo dokonce nemůžete pin umístit, protože místo díry je tam mezera (toto se stane na pozicích 10, 11, 12 a 13), posuňte pin ve 3. kódovém kole např. o pět (libovolné číslo > 5) pozic pro- nebo protisměru hodinových ručiček, a druhý pin v opačném směru o stejný počet pozic. Viz. obrázek.
+1. Pokud se teď druhý pin nachází na okraji mezery, nebo dokonce nemůžete pin umístit, protože místo díry je tam mezera (toto se stane na pozicích 10, 11, 12 a 13), posuňte pin ve 3. kódovém kole např. o pět (libovolné číslo > 5) pozic po směru hodinových ručiček, a druhý pin v protisměru o stejný počet pozic viz obrázek.
     ![alt](SupportFiles/kola_po_posunu.jpg)
-1. Druhé kódové kolo otočte na stranu "facing front". Třetí pin vložte do této strany, o jednu pozici posunutou proti směru hodinových ručiček oproti pinu v druhé straně (opět viz. obrázek).
+1. Druhé kódové kolo otočte na stranu "facing front". Třetí pin vložte do této strany, o jednu pozici posunutou proti směru hodinových ručiček oproti pinu v druhé straně (opět viz obrázek).
     ![alt](SupportFiles/third_pin.jpg)
 1.  Nasaďte první kódové kolo a nastavte ho do polohy jako na obrázku. 
     ![alt](SupportFiles/prvni_kolo_nasadit.jpg)
 1. Provlékněte vnitřní osu vnější osou a nasadtě na ni adaptér na volič jako na obrázku.
     ![alt](SupportFiles/adapter_a_vnitrni_osa.jpg)
-1. Nasaďte i 2. a 3. kódové kolo, a nastavte je do stejné polohy jako první. (viz. obrázek)
+1. Nasaďte i 2. a 3. kódové kolo, a nastavte je do stejné polohy jako první. (viz obrázek)
     ![alt](SupportFiles/vsechna_kola.jpg)
 1. Nasaďte volič na adaptér tak, aby mířil na poslední číslo v kombinaci. U tohoto se vám nesmí pohnout kódová kola.
     ![alt](SupportFiles/nasadte_volic.jpg)
-1. Točte voličem po směru hodinových ručiček, až "nabere" druhé kolo a zastavte se na prvním čísle ve vaší kombinaci. Zaznačte si tužkou díru na prvním kódovém kole, která je první v protisměru hodinových ručiček od pinu v druhém kole (viz obrázek).
+1. Točte voličem po směru hodinových ručiček, až "nabere" druhé kolo a zastavte se na prvním čísle ve vaší kombinaci. Zaznačte si tužkou díru na prvním kódovém kole (to "nejnižší"), která je první v protisměru hodinových ručiček od pinu v druhém kole (viz obrázek).
     ![alt](SupportFiles/zaznacit_posledni_pin.jpg)
 1. Sundejte všechna kódová kola, volič a adaptér, a vyjměte vnější osu.
 1. Do zaznačeného místa dejte poslední pin (pokud nějaké piny přebývají, jsou pouze náhradní a dále je neumisťujeme).
