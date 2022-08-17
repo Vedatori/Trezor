@@ -1,8 +1,4 @@
-# TODO
-* Doplit obrázky
-* Doplnit seznamy potřebných dílů a nástrojů ke každému kroku
-
-V tomto dokumentu je uveden návod na sestavení mechanických dílů vozítka TrackJet. Část mechanických dílů je vyrobena technologií 3D tisku, část je vyřezána z překližky a plexiskla pomocí laseru. Ostatní součástky jsou běžně dostupný spojovací materiál. Dále je vsazena deska plošných spojů (DPS), kterou se zabývá samostatný návod.
+V tomto dokumentu je uveden návod na sestavení mechanického trezoru. Část mechanických dílů je vyrobena technologií 3D tisku, část je vyřezána z překližky pomocí laseru. Ostatní součástky jsou běžně dostupný spojovací materiál.
 
 ___
 # Obsah
@@ -13,6 +9,7 @@ ___
 * [Kódová kola](#kola1)
 * [Mechanismus zámku](#zamek)
 * [Sestavení dveří](#dvere3)
+* [Lakování trezoru](#lak)
 * [Nasazení kódových kol](#kola2)
 * [Úchyt zadní stěny dveří](#dvere4)
 * [Kontrola funkčnosti mechanismu](#kontrola)
@@ -121,10 +118,10 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Postup:**
 1. Zvolte si váš kód (3 libovolná čísla, nicméně ideálně různá, ne 5, 5, 5) pro otevření trezoru.
 
-1. Jeden pin vložte <b>přesně tam, kde je na fotce</b>, do 3. kódového kola ze strany, kde není nápis.
+1. Jeden pin vložte <b>přesně tam, kde je na fotce</b>, do 3. kódového kola ze strany, kde je nápis.
     ![alt](SupportFiles/position_0.jpg)
-1. Spočítejte pozici druhého pinu. Kombinaci berte jako x, y, z. Pak pozice druhého pinu je z - y.
-    Např. pokud máte kombinaci 15, 25, 35, pak pozice druhého pinu je 35 - 25, tedy 10. Druhý pin pak vložte podle nápovědy obrázku. <b>Vkládejte pouze jeden pin</b>, dva jsou na obrázku pouze kvůli názornosti.
+1. Spočítejte pozici druhého pinu. Kombinaci berte jako x, y, z. Pak mezera mezi prvním a druhým pinem je z - y.
+    Např. pokud máte kombinaci 15, 25, 35, pak mezera mezi piny je 35 - 25, tedy 10. Pin bude tedy na pozici 11, atd. Druhý pin pak vložte podle nápovědy obrázku. <b>Vkládejte pouze jeden pin</b>, dva jsou na obrázku pouze kvůli názornosti. Mezera se počítá jako dvě díry!
     ![alt](SupportFiles/wheel_2_manual.jpg)
 1. Pokud se teď druhý pin nachází na okraji mezery, nebo dokonce nemůžete pin umístit, protože místo díry je tam mezera (toto se stane na pozicích 10, 11, 12 a 13), posuňte pin ve 3. kódovém kole např. o pět (libovolné číslo > 5) pozic pro- nebo protisměru hodinových ručiček, a druhý pin v opačném směru o stejný počet pozic. Viz. obrázek.
     ![alt](SupportFiles/kola_po_posunu.jpg)
