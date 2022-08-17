@@ -29,7 +29,7 @@ ___
 * smirek
 
 **Postup:**
-1. Obruste smirkem všechny nedořezky.
+1. Obrušte všechny stěny dveří a boxu jemným smirkem (budou se později lakovat).
     ![alt](SupportFiles/smirkujte_vse.jpg)
 
 ## <a name = krabice1>Sestavení krabice</a>
@@ -65,10 +65,13 @@ ___
 **Nástroje:**
 * Zalamovací nůž
 * Lepidlo Chemopren
+* Smirek
 
 ![alt](SupportFiles/predni_stena_potrebne.jpg)
 
 **Postup:**
+1. Jemným smirkem zbruste všechny pohledové strany stěn dveří (dvě velké a čtyři úzké stěny).
+    ![alt](SupportFiles/zbruste_dvere.jpg)
 1. Zařízněte nožem kulatý otvor vnější osy.
     ![alt](SupportFiles/oriznete_vnejsi_osu.jpg)
 1. Vyzkoušejte, že je možné zasunout vnitřní osu do vnější osy.
@@ -185,8 +188,22 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Nalepte všechny čtyři stěny.
 1. Zajistěte každý spoj kouskem papírové lepicí pásky.
     ![alt](SupportFiles/front_wall_paper_tape.jpg)
-1. <b>NELEPTE</b> zadní stěnu dveří, pouze ji "nasucho" vložte.
+1. <b>NELEPTE</b> zadní stěnu dveří, pouze ji "nasucho" vložte. Po zaschnutí lepidla ji opět vyndejte.
     ![alt](SupportFiles/front_wall_final.jpg)
+
+## <a name = komplet>Lakování trezoru</a>
+**Potřebné díly:**
+* Obě části dveří trezoru
+* Box trezoru
+
+**Nástroje:**
+* Smirek
+* Lak
+
+**Postup**
+1. Natřete pohledové stěny dveří a trezoru jemnou vrstvou laku a nechte zaschnout.
+1. Obrušte nerovnosti na dřevě vystoupnuté lakem.
+1. Nalakujte druhou vrstvou a nechte dobře zaschnout.
 
 ## <a name = kola2>Nasazení kódových kol</a>
 **Potřebné díly:**
