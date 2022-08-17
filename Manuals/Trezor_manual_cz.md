@@ -28,11 +28,9 @@ ___
 **Nástroje:**
 * smirek
 
-![alt](SupportFiles/.jpg)
-
 **Postup:**
 1. Obruste smirkem všechny nedořezky.
-    ![alt](SupportFiles/.jpg)
+    ![alt](SupportFiles/smirkujte_vse.jpg)
 
 ## <a name = krabice1>Sestavení krabice</a>
 **Potřebné díly:**
@@ -55,10 +53,8 @@ ___
     ![alt](SupportFiles/zajistete_papirovou_paskou.jpg)
 1. Opakujte předchozí 2 kroky až slepíte krabici bez přední plochy podle obrázku.
     ![alt](SupportFiles/krabice_bez_vika.jpg)
-1. Nalepte přední stěnu tak, aby její orientace vůči zadní stěně odpovídala obrázku.
-    ![alt](SupportFiles/TODO.jpg)
-1. Zajistěte přední stěnu lepicí páskou.
-    ![alt](SupportFiles/TODO.jpg)
+1. Nalepte přední stěnu <b>tak, aby její orientace vůči zadní stěně odpovídala obrázku</b> a zajistěte přední stěnu lepicí páskou.
+    ![alt](SupportFiles/nalepte_viko.jpg)
 
 ## <a name = dvere1>Přední stěna dveří</a>
 **Potřebné díly:**
@@ -103,23 +99,48 @@ ___
     ![alt](SupportFiles/back_wall_with_drawings.jpg)
 
 ## <a name = kola1>Kódová kola</a>
+**Prosím, pro tuto sekci čtěte velmi pozorně návod, nebo nedospějete k vaší zvolené kombinaci**
 **Potřebné díly:**
 * 3 kódová kola
 * 3 cvočky (malé tmavě modré dílky)
 * 4 piny
+* vnitřní osa
+* přední část dveří
+* adaptér na volič
+* volič
 
-![alt](SupportFiles/code_wheels_needed.jpg)
+![alt](SupportFiles/kodova_kola_needed.jpg)
+
+**Vysvětlení**
+* Každé kódové kolo má na jedné straně nápis "facing front" a číslo. Když se budeme zmiňovat o 3. kódovém kole atd. vždy se odkazujeme na toto číslo.
+Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které je připevněna vnější osa.
 
 **Postup:**
-1. Zvolte si váš kód pro otevření trezoru.
-1. Jeden pin vložte do 1. kódového kola ze strany, kde není nápis.
-    ![alt](SupportFiles/pin_wheel_1.jpg)
-1. Druhý pin vložte do 2. kódového kola ze strany, kde je nápis.
-    ![alt](SupportFiles/pin_wheel_2_1.jpg)
-1. Třetí pin vložte do 2. kódového kola ze strany, kde není nípis.
-    ![alt](SupportFiles/pin_wheel_2_2.jpg)
-1. Čtvrtý pin vložte do 3. kódového kola ze strany, kde je nápis.
-    ![alt](SupportFiles/pin_wheel_3.jpg)
+1. Zvolte si váš kód (3 libovolná čísla, nicméně ideálně různá, ne 5, 5, 5) pro otevření trezoru.
+
+1. Jeden pin vložte <b>přesně tam, kde je na fotce</b>, do 3. kódového kola ze strany, kde není nápis.
+    ![alt](SupportFiles/position_0.jpg)
+1. Spočítejte pozici druhého pinu. Kombinaci berte jako x, y, z. Pak pozice druhého pinu je z - y.
+    Např. pokud máte kombinaci 15, 25, 35, pak pozice druhého pinu je 35 - 25, tedy 10. Druhý pin pak vložte podle nápovědy obrázku. <b>Vkládejte pouze jeden pin</b>, dva jsou na obrázku pouze kvůli názornosti.
+    ![alt](SupportFiles/wheel_2_manual.jpg)
+1. Pokud se teď druhý pin nachází na okraji mezery, nebo dokonce nemůžete pin umístit, protože místo díry je tam mezera (toto se stane na pozicích 10, 11, 12 a 13), posuňte pin ve 3. kódovém kole např. o pět (libovolné číslo > 5) pozic pro- nebo protisměru hodinových ručiček, a druhý pin v opačném směru o stejný počet pozic. Viz. obrázek.
+    ![alt](SupportFiles/kola_po_posunu.jpg)
+1. Druhé kódové kolo otočte na stranu "facing front". Třetí pin vložte do této strany, o jednu pozici posunutou proti směru hodinových ručiček oproti pinu v druhé straně (opět viz. obrázek).
+    ![alt](SupportFiles/third_pin.jpg)
+1.  Nasaďte první kódové kolo a nastavte ho do polohy jako na obrázku. 
+    ![alt](SupportFiles/prvni_kolo_nasadit.jpg)
+1. Provlékněte vnitřní osu vnější osou a nasadtě na ni adaptér na volič jako na obrázku.
+    ![alt](SupportFiles/adapter_a_vnitrni_osa.jpg)
+1. Nasaďte i 2. a 3. kódové kolo, a nastavte je do stejné polohy jako první. (viz. obrázek)
+    ![alt](SupportFiles/vsechna_kola.jpg)
+1. Nasaďte volič na adaptér tak, aby mířil na poslední číslo v kombinaci. U tohoto se vám nesmí pohnout kódová kola.
+    ![alt](SupportFiles/nasadte_volic.jpg)
+1. Točte voličem po směru hodinových ručiček, až "nabere" druhé kolo a zastavte se na prvním čísle ve vaší kombinaci. Zaznačte si tužkou díru na prvním kódovém kole, která je první v protisměru hodinových ručiček od pinu v druhém kole (viz obrázek).
+    ![alt](SupportFiles/zaznacit_posledni_pin.jpg)
+1. Sundejte všechna kódová kola, volič a adaptér, a vyjměte vnější osu.
+1. Do zaznačeného místa dejte poslední pin (pokud nějaké piny přebývají, jsou pouze náhradní a dále je neumisťujeme).
+    ![alt](SupportFiles/posledni_pin.jpg)
+    
 1. Vložte cvočky do každého z 3 kol. Vkládají se zobáčkem směrem do středu kola.
     ![alt](SupportFiles/rider_manual.jpg)
 
@@ -295,7 +316,7 @@ ___
     ![alt](SupportFiles/kola_do_pozice.jpg)
 1. Nasaďte zadní část dveří na přední část dveří.
     ![alt](SupportFiles/nasadit_zadni_stranu.jpg)
-1. Do otvorů v otevíracím madle naneste minimální množství chemoprénu. Nasaďte otevírací madlo. <b>Otevírací madlo se nesmí prilepit ke dveřím!</b>
+1. Do otvorů v otevíracím madle naneste minimální množství chemoprénu. Nasaďte otevírací madlo. <b>Otevírací madlo se nesmí přilepit ke dveřím!</b>
     ![alt](SupportFiles/nasadit_oteviraci_madlo.jpg)
 1. Nasaďte pojistný kroužek na vnitřní osu a jemnou silou ho přitlačte.
     ![alt](SupportFiles/nasadit_pojistny_krouzek.jpg)
