@@ -177,9 +177,9 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 ![alt](SupportFiles/front_wall_completion_needed.jpg)
 
 **Důležité**
-* <b>Bočnice dveří lepte orientované podle obrázku!</b>.
+* <b>Bočnice dveří lepte orientované podle obrázku!</b>. Stěna se třemi dírami musí být napravo, a díry musí být co nejdál od přední stěny.
     Pokud si nejste jisti, raději se před zalepením poraďte s některým z vedoucích.
-    ![alt](SupportFiles/fornt_wal_orientation.jpg)
+    ![alt](SupportFiles/front_wal_orientation.jpg)
 
 **Postup:**
 1. Nalepte všechny čtyři stěny.
@@ -206,7 +206,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Potřebné díly:**
 * Přední část dveří
 * 3 Kódová kola
-* Větší i menší ségrovka ("nekompletní kružnice")
+* Větší i menší segrovka ("nekompletní kružnice")
 * Poslední ozubené kolo
 
 
@@ -215,7 +215,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Postup:**
 1. Nasaďte první kódové kolo na vnější osu zámku tak, aby nebyl vidět nápis.
     ![alt](SupportFiles/first_wheel.jpg)
-1. Nasaďte segrovkou do výřezu na vnější osu tak, že ji naplocho na kódové kolo mezerou směrem k vnější ose a zatlačíte na ni.
+1. Nasaďte větší segrovku do výřezu na vnější osu tak, že ji dáte naplocho na kódové kolo, mezerou směrem k vnější ose, a zatlačíte na ni.
     ![alt](SupportFiles/first_seger.jpg)
 1. Nasaďte druhé kódové kolo na vnější osu zámku tak, aby nebyl vidět nápis.
     ![alt](SupportFiles/second_wheel.jpg)
@@ -230,6 +230,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * Přední část dveří
 * 3 Panty s dírou
 * 2 díly pro úchyt zadních dveří
+* 4x matice M3
 
 **Nástroje**
 * Chemoprén
@@ -240,7 +241,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Vsaďte matice do 4 úchytů zadní stěny dveří a z boku je zajistěte <b>malým množstvím</b> chemoprénu (nesmíte zalepit závity matic).
     ![alt](SupportFiles/zarazeni_matek.jpg)
 1. Naneste lepidlo na úchyty zadní stěny dveří.
-    ![alt](SupportFiles/TODO.jpg)
+    ![alt](SupportFiles/chemopren_na_drzaky.jpg)
 1. Ze strany dveří s 2 obdélníkovými otvory vsadíme a zalepíme držáky bez pantů tak, aby matka mířila dolů.
     Ze strany dveří s 3 obdélníkovými otvory vsadíme a zalepíme držáky s pantem tak, aby matka mířila dolů.
     ![alt](SupportFiles/panty_final.jpg)
@@ -290,6 +291,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * (Vnitřní) Petlice
 * (Vnější) Západka
 * Zadní část otevíracího madla
+* Zadní pojistka otevíracího madla
 
 ![alt](SupportFiles/TODO.jpg)
 
@@ -304,6 +306,8 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
     ![alt](SupportFiles/sesroubovana_petlice_do_dveri.jpg)
 1. Provlékněte zadní stranu otevíracího madla a zajistěte M3x10 šroubem.
     ![alt](SupportFiles/TODO.jpg)
+1. Zajistěte zadní část otevíracího madla zadní pojistkou.
+    ![alt](SupportFiles/TODO.jpg)
 
 ## <a name = dvere6>Kompletace dveří</a>
 **Potřebné díly:**
@@ -311,10 +315,9 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * 4x plastové distanční sloupky
 * Dřevěný distanční sloupek
 * Otevírací madlo
-* Zadní pojistka otevíracího madla
 * Pojistný kroužek
 * Přední sestava dveří
-* Zadní část dveří
+* Zadní sestava dveří
 
 **Nástroje:**
 * Chemoprén
@@ -329,16 +332,16 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Nastavte kódové disky do odemčené pozice, čili se zářezy v zákrytu vpravo.
     ![alt](SupportFiles/kola_do_pozice.jpg)
 1. Nasaďte zadní část dveří na přední část dveří.
-    ![alt](SupportFiles/nasadit_zadni_stranu.jpg)
+    ![alt](SupportFiles/)
 1. Do otvorů v otevíracím madle naneste minimální množství chemoprénu. Nasaďte otevírací madlo. <b>Otevírací madlo se nesmí přilepit ke dveřím!</b>
     ![alt](SupportFiles/nasadit_oteviraci_madlo.jpg)
 1. Nasaďte pojistný kroužek na vnitřní osu a jemnou silou ho přitlačte.
     ![alt](SupportFiles/nasadit_pojistny_krouzek.jpg)
 1. Zašroubujte 4 šrouby M3x15 v rozích dveří.
     ![alt](SupportFiles/zasroubovat_dvere.jpg)
-1. Nekolikrát opakovaně zamčete a odemčte zámek pomocí madla a nechte jej v poloze odemčeno
+1. Bez lepení nasaďte volič tak, aby mířil na poslední číslo zvolené kombinace (Např. pro kombinaci 40-8-17 nastavte na 17). Nekolikrát opakovaně zamčete a odemčte zámek pomocí zvolené kombinace a pak dveře nechte v poloze odemčeno
     ![alt](SupportFiles/odemcit.jpg)
-1. Pokud jste se ujistili, že vše funguje, nalepte chemoprenem volič odemykacího kódu, tak, aby ručička mířila na poslední číslo odemykací kombinace. (Např. pro kombinaci 40-8-17 nastavte na 17).
+1. Pokud jste se ujistili, že vše funguje, nalepte chemoprenem volič odemykacího kódu, tak, aby ručička mířila na poslední číslo odemykací kombinace. 
     ![alt](SupportFiles/chemopren_na_adapter.jpg)
     ![alt](SupportFiles/nasadit_volic.jpg)
 
