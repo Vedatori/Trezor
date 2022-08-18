@@ -137,6 +137,8 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
     ![alt](SupportFiles/nasadte_volic.jpg)
 1. Točte voličem po směru hodinových ručiček, až "nabere" druhé kolo a zastavte se na prvním čísle ve vaší kombinaci. Zaznačte si tužkou díru na prvním kódovém kole (to "nejnižší"), která je první v protisměru hodinových ručiček od pinu v druhém kole (viz obrázek).
     ![alt](SupportFiles/zaznacit_posledni_pin.jpg)
+1. Pokud vám 1. kódové kolo nechytá 2., pin číslo 4 (viditelný zezadu) vtlačte šroubovákem více dovnitř. Znovu vyzkoušejte funkci zámku.
+    ![alt](SupportFiles/zatlacte_sroubovakem.jpg)
 1. Sundejte všechna kódová kola, volič a adaptér, a vyjměte vnější osu.
 1. Do zaznačeného místa dejte poslední pin (pokud nějaké piny přebývají, jsou pouze náhradní a dále je neumisťujeme).
     ![alt](SupportFiles/posledni_pin.jpg)
@@ -157,7 +159,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Postup:**
 * Položte si přední stěnu dveří naplocho obdélníkovou dírou dolů (směrem k vám).
     ![alt](SupportFiles/front_door_wall_put_this_way.jpg)
-* Naneste chemopren na stranu ozubeného kola s šipkou.
+* Naneste chemoprén na stranu ozubeného kola s šipkou.
     ![alt](SupportFiles/big_wheel_chemopren.jpg)
 * Nasuňte ozubené kolo na vnější osu <b>tak, aby šipka míříla nahoru (od vás)</b>, přítiskněte lepidlem k přední stěně šipkou nahoru.
     ![alt](SupportFiles/pritisknete_velke_kolo.jpg)
@@ -240,7 +242,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Postup:**
 1. Vsaďte matice do 4 úchytů zadní stěny dveří a z boku je zajistěte <b>malým množstvím</b> chemoprénu (nesmíte zalepit závity matic).
     ![alt](SupportFiles/zarazeni_matek.jpg)
-1. Naneste lepidlo na úchyty zadní stěny dveří.
+1. Naneste chemoprén na úchyty zadní stěny dveří.
     ![alt](SupportFiles/chemopren_na_drzaky.jpg)
 1. Ze strany dveří s 2 obdélníkovými otvory vsadíme a zalepíme držáky bez pantů tak, aby matka mířila dolů.
     Ze strany dveří s 3 obdélníkovými otvory vsadíme a zalepíme držáky s pantem tak, aby matka mířila dolů.
@@ -293,7 +295,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * Zadní část otevíracího madla
 * Zadní pojistka otevíracího madla
 
-![alt](SupportFiles/TODO.jpg)
+![alt](SupportFiles/zadni_stena_needed.jpg)
 
 **Postup:**
 1. Očistěte zbytky filamentu v kulatých dírách v západce nožem.
@@ -301,13 +303,13 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Vsaďte matky M3 do petlice.
     ![alt](SupportFiles/vlozte_matice_do_petlice.jpg)
 1. Sešroubujte západku s petlicí šrouby M3x25.
-    ![alt](SupportFiles/sesroubujte_petlici.jpg)
+    ![alt](SupportFiles/sesroubovat_petlici.jpg)
 1. Vložte sešroubovanou západku s petlicí do zadní stěny dveří.
     ![alt](SupportFiles/sesroubovana_petlice_do_dveri.jpg)
 1. Provlékněte zadní stranu otevíracího madla a zajistěte M3x10 šroubem.
-    ![alt](SupportFiles/TODO.jpg)
+    ![alt](SupportFiles/vsadte_petlici.jpg)
 1. Zajistěte zadní část otevíracího madla zadní pojistkou.
-    ![alt](SupportFiles/TODO.jpg)
+    ![alt](SupportFiles/zatlacte_pojistku.jpg)
 
 ## <a name = dvere6>Kompletace dveří</a>
 **Potřebné díly:**
@@ -322,7 +324,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 **Nástroje:**
 * Chemoprén
 
-![alt](SupportFiles/TODO.jpg)
+![alt](SupportFiles/kompletace_dveri_needed.jpg)
 
 **Postup:**
 1. Vsaďte distanční sloupky do otvorů na držácích dveří. Z boku zalepte malým množstvím chemoprénu.
@@ -332,7 +334,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Nastavte kódové disky do odemčené pozice, čili se zářezy v zákrytu vpravo.
     ![alt](SupportFiles/kola_do_pozice.jpg)
 1. Nasaďte zadní část dveří na přední část dveří.
-    ![alt](SupportFiles/)
+    ![alt](SupportFiles/nasadit_dvere.jpg)
 1. Do otvorů v otevíracím madle naneste minimální množství chemoprénu. Nasaďte otevírací madlo. <b>Otevírací madlo se nesmí přilepit ke dveřím!</b>
     ![alt](SupportFiles/nasadit_oteviraci_madlo.jpg)
 1. Nasaďte pojistný kroužek na vnitřní osu a jemnou silou ho přitlačte.
