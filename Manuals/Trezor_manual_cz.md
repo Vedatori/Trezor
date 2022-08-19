@@ -127,6 +127,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
     ![alt](SupportFiles/kola_po_posunu.jpg)
 1. Druhé kódové kolo otočte na stranu "facing front". Třetí pin vložte do této strany, o jednu pozici posunutou proti směru hodinových ručiček oproti pinu v druhé straně (opět viz obrázek).
     ![alt](SupportFiles/third_pin.jpg)
+1. Následuje postup vložení 4. pinu
 1.  Nasaďte první kódové kolo a nastavte ho do polohy jako na obrázku. 
     ![alt](SupportFiles/prvni_kolo_nasadit.jpg)
 1. Provlékněte vnitřní osu vnější osou a nasadtě na ni adaptér na volič jako na obrázku.
@@ -184,6 +185,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
     ![alt](SupportFiles/front_wal_orientation.jpg)
 
 **Postup:**
+1. <b>Ještě jednou si zkontrolujte správnou orientaci bočnic dveří.</b>
 1. Nalepte všechny čtyři stěny.
 1. Zajistěte každý spoj kouskem papírové lepicí pásky.
     ![alt](SupportFiles/front_wall_paper_tape.jpg)
@@ -200,6 +202,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * Lak
 
 **Postup**
+1. Před lakováním si nechte dřevěné díly zkontrolovat vedoucím.
 1. Natřete pohledové stěny dveří a trezoru jemnou vrstvou laku a nechte zaschnout.
 1. Obrušte nerovnosti na dřevě vystoupnuté lakem.
 1. Nalakujte druhou vrstvou a nechte dobře zaschnout.
