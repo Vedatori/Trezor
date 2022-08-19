@@ -144,7 +144,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Do zaznačeného místa dejte poslední pin (pokud nějaké piny přebývají, jsou pouze náhradní a dále je neumisťujeme).
     ![alt](SupportFiles/posledni_pin.jpg)
     
-1. Vložte cvočky do každého z 3 kol. Vkládají se zobáčkem směrem do středu kola.
+1. Vložte cvočky do každého z 3 kol. Vkládají se zobáčkem směrem do středu kola. <b>Nezáleží na tom, jestli je cvoček na straně s nápisem či ne, pouze na tom, aby cvoček směřoval do středu kola!</b>
     ![alt](SupportFiles/rider_manual.jpg)
 
 ## <a name = zamek>Mechanismus zámku</a>
