@@ -177,8 +177,6 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 * papírová lepicí páska
 * lepidlo Herkules
 
-![alt](SupportFiles/front_wall_completion_needed.jpg)
-
 **Důležité**
 * <b>Bočnice dveří lepte orientované podle obrázku!</b>. Stěna se třemi dírami musí být napravo, a díry musí být co nejdál od přední stěny.
     Pokud si nejste jisti, raději se před zalepením poraďte s některým z vedoucích.
