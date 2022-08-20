@@ -335,7 +335,7 @@ Nápis "facing front" v konečném důsledku musí mířit na stěnu, ve které 
 1. Nastavte kódové disky do odemčené pozice, čili se zářezy v zákrytu vpravo.
     ![alt](SupportFiles/kola_do_pozice.jpg)
 1. Nasaďte zadní část dveří na přední část dveří.
-    ![alt](SupportFiles/nasadit_dvere.jpg)
+    ![alt](SupportFiles/nasadit_zadni_stranu.jpg)
 1. Do otvorů v otevíracím madle naneste minimální množství chemoprénu. Nasaďte otevírací madlo. <b>Otevírací madlo se nesmí přilepit ke dveřím!</b>
     ![alt](SupportFiles/nasadit_oteviraci_madlo.jpg)
 1. Nasaďte pojistný kroužek na vnitřní osu a jemnou silou ho přitlačte.
